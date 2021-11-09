@@ -13,3 +13,8 @@ describe('Async component', () => {
     expect(listItemElements).not.toHaveLength(0);
   });
 });
+
+// Further resources:
+// Jest docs - https://jestjs.io/docs/getting-started
+// React Testing Lbrary docs - https://testing-library.com/docs/
+// react-hooks-testing-library - https://github.com/testing-library/react-hooks-testing-library
